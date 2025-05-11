@@ -12,9 +12,10 @@
   I love playing games specially story-mode and soulsborne.
 
 ## Connect with Me 📱
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/manshinderop)
+[![GitHub](https://img.shields.io/badge/GitHub-24292e)](https://github.com/manshinderop)
 [![Twitter](https://img.shields.io/badge/Twitter-black)](https://x.com/manxxop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/manshinder-singh-027b4a315/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2)](https://www.linkedin.com/in/manshinder-singh-027b4a315/)
+[![itch.io](https://img.shields.io/badge/itch.io-fa5c5c)](https://manxxop.itch.io/)
 
 ## Known Technologies 💻
 ![Python](https://img.shields.io/badge/Python-%23ffde57.svg?style=for-the-badge&logo=python&logoColor=black)
