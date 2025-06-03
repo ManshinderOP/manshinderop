@@ -15,7 +15,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-24292e)](https://github.com/manshinderop)
 [![Twitter](https://img.shields.io/badge/Twitter-black)](https://x.com/manxxop)
 [![Pinterest](https://img.shields.io/badge/Pinterest-e60023)](https://pinterest.com/manxxop)
-[![roadmap.sh](https://img.shields.io/badge/roadmap.sh-030405)](https://roadmap.sh/u/manxxop)
+[![roadmap.sh](https://img.shields.io/badge/roadmap.sh-030405)](https://roadmap.sh/u/manshinderop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2)](https://www.linkedin.com/in/manshinder-singh-027b4a315/)
 [![itch.io](https://img.shields.io/badge/itch.io-fa5c5c)](https://manxxop.itch.io/)
 
