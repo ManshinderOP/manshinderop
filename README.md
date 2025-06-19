@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/manshinderop) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pinterest.com/manxxop) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/manxxop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/manshinderop) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pinterest.com/manxxop) [![X](https://img.shields.io/badge/X-%23black.svg?logo=X&logoColor=white)](https://x.com/x.com/manxxop)
 [![roadmap.sh](https://img.shields.io/badge/roadmap.sh-%23030405)](https://roadmap.sh/u/manshinderop)
 [![itch.io](https://img.shields.io/badge/itch.io-%23fa5c5c)](https://manxxop.itch.io/)
 
